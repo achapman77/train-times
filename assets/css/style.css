@@ -1,0 +1,18 @@
+* {
+    font-family: 'Stardos Stencil', cursive;
+}
+
+#header {
+    display: flex;
+    align-items: center
+
+}
+
+img {
+    width: 10em;
+}
+
+h1 {
+    font-size: 5em;
+    color: #4A281C
+}
